@@ -1,0 +1,6 @@
+{
+    "name"        : "weaponModels",
+    "library"     : "mod",
+    "type"        : "string",
+    "memoryType"  : "data"
+}

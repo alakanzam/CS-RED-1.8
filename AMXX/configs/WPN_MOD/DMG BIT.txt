@@ -1,0 +1,26 @@
+#define DMG_GENERIC				0		// generic damage was done
+#define DMG_CRUSH				(1<<0)	// crushed by falling or moving object
+#define DMG_BULLET				a
+#define DMG_SLASH				b
+#define DMG_BURN				c
+#define DMG_FREEZE				d
+#define DMG_FALL				e
+#define DMG_BLAST				f
+#define DMG_CLUB				g
+#define DMG_SHOCK				h
+#define DMG_SONIC				i
+#define DMG_ENERGYBEAM			j
+#define DMG_NEVERGIB			l
+#define DMG_ALWAYSGIB			m
+#define DMG_DROWN				n
+#define DMG_PARALYZE			o
+#define DMG_NERVEGAS			p
+#define DMG_POISON				q
+#define DMG_RADIATION			r
+#define DMG_DROWNRECOVER		s
+#define DMG_ACID				t
+#define DMG_SLOWBURN			u
+#define DMG_SLOWFREEZE			v
+#define DMG_MORTAR				w
+#define DMG_GRENADE			x
+#define DMG_TIMEBASED			(~(0x3fff))	// mask for time-based damage

@@ -1,0 +1,35 @@
+#if defined _IntegerFloatConstant_included
+  #endinput
+#endif
+#define _IntegerFloatConstant_include
+
+enum
+{
+	GAMEMODE_BY_PREFIX,
+	GAMEMODE_TDM,
+	GAMEMODE_FFA,
+	GAMEMODE_ZM,
+	GAMEMODE_GUNGAME,
+	GAMEMODE_DM,
+	GAMEMODE_ESCAPE
+}
+
+
+/*	CONSTANT FOR : TEAM DEATH MATCH, GUN GAME, FREE FOR ALL	*/
+
+enum
+{
+	TEAM_NONE,
+	TEAM_TERRORIST,
+	TEAM_CT
+}
+
+/*	CONSTANT FOR WEAPON MODE	*/
+
+enum
+{
+	CS_WM_NORMAL = 1,
+	CS_WM_PISTOL,
+	CS_WM_SNIPER,
+	CS_WM_KNIFE
+}

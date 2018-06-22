@@ -1,0 +1,31 @@
+[WPN_TYPE]2
+[iSerial]Ksg12-normal
+[BasicSetting]ej
+[WPN_NAME]Kel-Tec KSG 12
+[WPN_ID]26 21
+[WPN_AMMO]12 60
+[iBulletType]
+[iBulletInfo]
+[WPN_DELAY]0.75
+[WPN_ReloadTime]0.7 1.0 1.0
+[WPN_DeployTime]1.0
+[WPN_RECOIL]5.655
+[WPN_ACCURACY]1.0
+[WPN_ZOOM]0 0 0
+[WPN_SPECIAL]0
+[WPN_FUNC]a
+[WPN_FIREMODE]0 0 0 0 0.0 0.0
+[WPN_HUD]KSG12 0
+[WPN_DMG]10
+[WPN_COST]67500 1 120 1 1
+[W_MODEL]models/TFM_WPN/w_SecondaryWpn_1.mdl 0
+[P_MODEL]models/TFM_WPN/KSG-12/p_KSG-12.mdl 0 
+[V_MODEL]models/TFM_WPN/KSG-12/v_KSG-12.mdl 0
+[AdsConfig]none 0.4 0.4 abef
+[WPN_WEIGHT]0.0
+[WPN_SPEED]35.75
+[WPN_KB]6.47 510
+[WPN_SOUND]KSG12 KSG12_Insert KSG12_EndReload 0
+[WPN_CLASS]weapon_KSG12
+[AS-MAP]3
+[BACK_WPN]

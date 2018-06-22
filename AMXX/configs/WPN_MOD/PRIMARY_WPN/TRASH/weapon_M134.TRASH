@@ -1,0 +1,49 @@
+[WPN_TYPE]5
+[iSerial]M134-normal
+[BasicSetting]ce
+[WPN_NAME]Minigun [M134] 
+[WPN_ID]20 20
+[WPN_AMMO]150 150
+[iBulletType]0 <DMG_BIT>
+[iBulletInfo]1 1650 0.75 a
+[iBulletModel]models/crossbow_bolt.mdl 0
+[iBulletExpCfg]350 eexplo 15 20 explode4 0.25 1.5
+[iBulletTrail]laserbeam 0 255 0 3 200 15
+[iBulletTrail2]laserbeam 0 255 0 3 200 15
+[WPN_DELAY]0.07 
+[WPN_Reloadime]4.75 0.0 0.0
+[WPN_DeployTime]1.0
+[WPN_RECOIL]1.42587
+[WPN_ACCURACY]0.35
+[WPN_ZOOM]0 0 0
+[WPN_SPECIAL]2
+[WPN_FUNC]
+[WPN_FIREMODE]0 0 0
+[WPN_HUD]M134
+[WPN_DAMAGE]1.25525
+[WPN_COST]196 2 100 1
+[W_MODEL]models/TFM_WPN/w_PrimaryWpn_1.mdl 1
+[P_MODEL]models/TFM_WPN/M134/p_M134.mdl 0
+[V_MODEL]models/TFM_WPN/M134/v_M134.mdl 0
+[AdsConfig]models/v_SpecialSight.mdl 0.4 0.4 ab
+[LauncherConfig]
+[WPN_WEIGHT]0.1125
+[WPN_SPEED]72.25
+[WPN_KB]5.47 650.0
+[WPN_SOUND]M134
+[WPN_CLASS]weapon_M134
+[AS-MAP]0
+[BACK_WPN]0 NONE 0
+[iGrenadeInfo]<Type> <DmgBit> <Damage> <Clip> <Bpa> <Speed> <Flag>
+[iGrenadeDelay]<RoF> <ActiveTime> <DeactiveTime> <ActiveTime> <RemoveTime> <FallTime>
+[iGrenadeReloadCfg]<StartInsertTime> <InsertTime> <AfterInsertTime>
+[iGrenadeExpCfg]<Model> <Sub> <Hud> <Sprite> <Framerate> <Scale> <Brightness> <Sound>
+[iGrenadeCost]<Cost> <CostType>
+[iGrenadeRecoil]<Recoil>
+[iGrenadeTrail]<Sprite> <Red> <Green> <Blue> <Width> <Brightness> <Life>
+[iGrenadeTrail2]<Sprite> <Red> <Green> <Blue> <Width> <Brightness> <Life>
+[iThermal]0
+[iThermalColor]238 83 16
+[iThermalRadius]20
+[iThermalAlpha]150
+[DoubleWeapon]0 NONE NONE 0.0 0

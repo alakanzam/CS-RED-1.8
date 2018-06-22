@@ -1,0 +1,21 @@
+[WPN_NAME]HUNTING KNIFE
+[iSerial]HuntingKnife-normal
+[ATK_TYPE]1 2
+[WPN_RANGE]80.0 80.0
+[ATK_TIME]0.75 1.15
+[WPN_DELAY]0.25 0.8
+[WPN_HUD]SPEC-KNIFE
+[WPN_DMG]200.0 700.0
+[WPN_COST]-1 1 0
+[W_MODEL]models/TFM_WPN/w_PrimaryWpn_1.mdl 0
+[P_MODEL]models/TFM_WPN/Hunting-Knife/p_Hunting-Knife.mdl 0
+[V_MODEL]models/TFM_WPN/Hunting-Knife/v_Hunting-Knife.mdl 0
+[WPN_SOUND]SPEC-KNIFE
+[WPN_DeployTime]1.0
+[WPN_WEIGHT]0.0
+[WPN_SPEED]0.0
+[WPN_KB]0 0
+[WPN_REMOVE]1
+[WPN_CLASS]weapon_HuntingKnife
+[BACK_WPN]0 0 0
+[WPN_SEQ]katana

@@ -1,0 +1,49 @@
+[WPN_TYPE]4
+[iSerial]FnF2000-normal
+[BasicSetting]ce
+[WPN_NAME]FN F2000
+[WPN_ID]15 15
+[WPN_AMMO]30 90
+[iBulletType]0 <DMG_BIT>
+[iBulletInfo]1 1650 0.75 a
+[iBulletModel]models/crossbow_bolt.mdl 0
+[iBulletExpCfg]350 eexplo 15 20 explode4 0.25 1.5
+[iBulletTrail]laserbeam 0 255 0 3 200 15
+[iBulletTrail2]laserbeam 0 255 0 3 200 15
+[WPN_DELAY]0.07 
+[WPN_Reloadime]3.16 0.0 0.0
+[WPN_DeployTime]1.0
+[WPN_RECOIL]1.35125
+[WPN_ACCURACY]0.65
+[WPN_ZOOM]1 20 0
+[WPN_SPECIAL]0
+[WPN_FUNC]a
+[WPN_FIREMODE]0 1 0
+[WPN_HUD]FN-F2000
+[WPN_DAMAGE]1.2525
+[WPN_COST]36500 1 1200 1
+[W_MODEL]models/TFM_WPN/w_PrimaryWpn_1.mdl 8
+[P_MODEL]models/TFM_WPN/FN-F2000/p_FN-F2000.mdl 0
+[V_MODEL]models/TFM_WPN/FN-F2000/v_FN-F2000.mdl 0
+[AdsConfig]models/v_SpecialSight.mdl 0.4 0.4 ab
+[LauncherConfig]
+[WPN_WEIGHT]0.0
+[WPN_SPEED]42.0
+[WPN_KB]3.77 800.0
+[WPN_SOUND]FN-F2000
+[WPN_CLASS]weapon_FN-F2000
+[AS-MAP]0
+[BACK_WPN]0 NONE 0
+[iGrenadeInfo]<Type> <DmgBit> <Damage> <Clip> <Bpa> <Speed> <Flag>
+[iGrenadeDelay]<RoF> <ActiveTime> <DeactiveTime> <ActiveTime> <RemoveTime> <FallTime>
+[iGrenadeReloadCfg]<StartInsertTime> <InsertTime> <AfterInsertTime>
+[iGrenadeExpCfg]<Model> <Sub> <Hud> <Sprite> <Framerate> <Scale> <Brightness> <Sound>
+[iGrenadeCost]<Cost> <CostType>
+[iGrenadeRecoil]<Recoil>
+[iGrenadeTrail]<Sprite> <Red> <Green> <Blue> <Width> <Brightness> <Life>
+[iGrenadeTrail2]<Sprite> <Red> <Green> <Blue> <Width> <Brightness> <Life>
+[iThermal]0
+[iThermalColor]238 83 16
+[iThermalRadius]20
+[iThermalAlpha]150
+[DoubleWeapon]0 NONE NONE 0.0 0

@@ -1,0 +1,31 @@
+[WPN_TYPE]1
+[iSerial]WaltherPPK-normal
+[BasicSetting]bc
+[WPN_NAME]Walther PPK
+[WPN_ID]1 1
+[WPN_AMMO]9 27
+[iBulletType]
+[iBulletInfo]
+[WPN_DELAY]1.0
+[WPN_ReloadTime]2.8 0.0 0.0
+[WPN_DeployTime]1.25
+[WPN_RECOIL]1.2725
+[WPN_ACCURACY]0.77
+[WPN_ZOOM]0 0 0
+[WPN_SPECIAL]0
+[WPN_FUNC]a
+[WPN_FIREMODE]0 0 0 0 0.0 0.0
+[WPN_HUD]WaltherPPK 0
+[WPN_DMG]1.1925
+[WPN_COST]15500 1 120 1 1
+[W_MODEL]models/TFM_WPN/w_SecondaryWpn_1.mdl 2
+[P_MODEL]models/TFM_WPN/WaltherPPK/p_WaltherPPK.mdl 0 
+[V_MODEL]models/TFM_WPN/WaltherPPK/v_WaltherPPK.mdl 0
+[AdsConfig]none 0.4 0.4 abef
+[WPN_WEIGHT]0.0
+[WPN_SPEED]0.0
+[WPN_KB]2.87 340
+[WPN_SOUND]WaltherPPK NONE NONE 0
+[WPN_CLASS]weapon_WaltherPPK
+[AS-MAP]2
+[BACK_WPN]

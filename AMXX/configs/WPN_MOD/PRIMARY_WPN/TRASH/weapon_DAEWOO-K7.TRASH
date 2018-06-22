@@ -1,0 +1,49 @@
+[WPN_TYPE]3
+[iSerial]DaewooK7-normal
+[BasicSetting]ce
+[WPN_NAME]DAEWOO K7
+[WPN_ID]19 19
+[WPN_AMMO]30 120
+[iBulletType]0 <DMG_BIT>
+[iBulletInfo]1 1650 0.75 a
+[iBulletModel]models/crossbow_bolt.mdl 0
+[iBulletExpCfg]350 eexplo 15 20 explode4 0.25 1.5
+[iBulletTrail]laserbeam 0 255 0 3 200 15
+[iBulletTrail2]laserbeam 0 255 0 3 200 15
+[WPN_DELAY]0.05 
+[WPN_Reloadime]1.9 0.0 0.0
+[WPN_DeployTime]0.75
+[WPN_RECOIL]1.125125
+[WPN_ACCURACY]0.62
+[WPN_ZOOM]0 0 0
+[WPN_SPECIAL]0
+[WPN_FUNC]a
+[WPN_FIREMODE]0 0 0
+[WPN_HUD]DAEWOO-K7
+[WPN_DAMAGE]1.5525
+[WPN_COST]46500 1 100 1
+[W_MODEL]models/TFM_WPN/DAEWOO-K7/w_DAEWOO-K7.mdl 0
+[P_MODEL]models/TFM_WPN/DAEWOO-K7/p_DAEWOO-K7.mdl 0
+[V_MODEL]models/TFM_WPN/DAEWOO-K7/v_DAEWOO-K7.mdl 0
+[AdsConfig]models/TFM_WPN/DAEWOO-K7/v_DAEWOO-K7.mdl 0.4 0.4 abe
+[LauncherConfig]
+[WPN_WEIGHT]0.0
+[WPN_SPEED]38.0
+[WPN_KB]3.47 550.0
+[WPN_SOUND]K7
+[WPN_CLASS]weapon_DAEWOO-K7
+[AS-MAP]2
+[BACK_WPN]0 NONE 0
+[iGrenadeInfo]<Type> <DmgBit> <Damage> <Clip> <Bpa> <Speed> <Flag>
+[iGrenadeDelay]<RoF> <ActiveTime> <DeactiveTime> <ActiveTime> <RemoveTime> <FallTime>
+[iGrenadeReloadCfg]<StartInsertTime> <InsertTime> <AfterInsertTime>
+[iGrenadeExpCfg]<Model> <Sub> <Hud> <Sprite> <Framerate> <Scale> <Brightness> <Sound>
+[iGrenadeCost]<Cost> <CostType>
+[iGrenadeRecoil]<Recoil>
+[iGrenadeTrail]<Sprite> <Red> <Green> <Blue> <Width> <Brightness> <Life>
+[iGrenadeTrail2]<Sprite> <Red> <Green> <Blue> <Width> <Brightness> <Life>
+[iThermal]0
+[iThermalColor]238 83 16
+[iThermalRadius]20
+[iThermalAlpha]150
+[DoubleWeapon]0 NONE NONE 0.0 0

@@ -1,0 +1,26 @@
+#define DMG_GENERIC				0		// generic damage was done
+#define DMG_CRUSH				(1<<0)	// crushed by falling or moving object
+#define DMG_BULLET				a	// shot
+#define DMG_SLASH				b	// cut, clawed, stabbed
+#define DMG_BURN				c	// heat burned
+#define DMG_FREEZE				d	// frozen
+#define DMG_FALL				e	// fell too far
+#define DMG_BLAST				f	// explosive blast damage
+#define DMG_CLUB				g	// crowbar, punch, headbutt
+#define DMG_SHOCK				h	// electric shock
+#define DMG_SONIC				i	// sound pulse shockwave
+#define DMG_ENERGYBEAM			j	// laser or other high energy beam 
+#define DMG_NEVERGIB			l	// with this bit OR'd in, no damage type will be able to gib victims upon death
+#define DMG_ALWAYSGIB			m	// with this bit OR'd in, any damage type can be made to gib victims upon death.
+#define DMG_DROWN				n	// Drowning
+#define DMG_PARALYZE			o	// slows affected creature down
+#define DMG_NERVEGAS			p	// nerve toxins, very bad
+#define DMG_POISON				q	// blood poisioning
+#define DMG_RADIATION			r	// radiation exposure
+#define DMG_DROWNRECOVER		s	// drowning recovery
+#define DMG_ACID				t	// toxic chemicals or acid burns
+#define DMG_SLOWBURN			u	// in an oven
+#define DMG_SLOWFREEZE			v	// in a subzero freezer
+#define DMG_MORTAR				w	// Hit by air raid (done to distinguish grenade from mortar)
+#define DMG_GRENADE			x
+#define DMG_TIMEBASED			(~(0x3fff))	// mask for time-based damage
